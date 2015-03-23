@@ -54,6 +54,7 @@
     <Compile Include="CountingExcercise.cs" />
     <Compile Include="FrogJmp.cs" />
     <Compile Include="PermMissingElem.cs" />
+    <Compile Include="PermCheck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TapeEquilibrium.cs" />
   </ItemGroup>
