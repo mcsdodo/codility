@@ -50,6 +50,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CountingImpl.cs" />
+    <Compile Include="CountingExcercise.cs" />
     <Compile Include="FrogJmp.cs" />
     <Compile Include="PermMissingElem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
