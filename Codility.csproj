@@ -58,6 +58,7 @@
     <Compile Include="MissingInteger.cs" />
     <Compile Include="PermMissingElem.cs" />
     <Compile Include="PermCheck.cs" />
+    <Compile Include="PrefixSumsImpl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TapeEquilibrium.cs" />
   </ItemGroup>
